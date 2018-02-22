@@ -1,0 +1,13 @@
+Package: RGijon
+Type: Package
+Title: Programmatic Access to Data from the Observa GIJON API
+Version: 1.3
+Date: 2018-02-16
+Encoding: UTF-8
+Authors@R: c(person("Javier García Rodríguez",role=c("aut","cre"),email="uo222425@uniovi.es"))
+Author: Javier García Rodríguez [aut, cre]
+Maintainer: Javier García Rodríguez <uo222425@uniovi.es> 
+URL: <https://github.com/javiergarcirod/GijonR>
+Description:Functions for searching and downloading data and statistics from the "Observa GIJON API" (<https://observa.gijon.es/pages/inicio/>).Also,it allows us consulting the avalaible datasets.
+License: GPL-3
+Imports: jsonlite, httr
